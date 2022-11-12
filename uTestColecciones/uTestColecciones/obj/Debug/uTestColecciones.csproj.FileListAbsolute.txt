@@ -1,0 +1,43 @@
+C:\Users\Edwin O. Restrepo\Documents\My Games\libColecciones\Aqui\uTestColecciones\uTestColecciones\obj\Debug\uTestColecciones.csprojAssemblyReference.cache
+C:\Users\Edwin O. Restrepo\Documents\My Games\libColecciones\Aqui\uTestColecciones\uTestColecciones\obj\Debug\uTestColecciones.csproj.CoreCompileInputs.cache
+C:\Users\Edwin O. Restrepo\Documents\PROYECTO AL QUE ENTREGAR - LAB ESTRUCTURAS\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Edwin O. Restrepo\Documents\PROYECTO AL QUE ENTREGAR - LAB ESTRUCTURAS\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Edwin O. Restrepo\Documents\PROYECTO AL QUE ENTREGAR - LAB ESTRUCTURAS\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Edwin O. Restrepo\Documents\PROYECTO AL QUE ENTREGAR - LAB ESTRUCTURAS\uTestColecciones\uTestColecciones\bin\Debug\uTestColecciones.dll
+C:\Users\Edwin O. Restrepo\Documents\PROYECTO AL QUE ENTREGAR - LAB ESTRUCTURAS\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Edwin O. Restrepo\Documents\PROYECTO AL QUE ENTREGAR - LAB ESTRUCTURAS\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Edwin O. Restrepo\Documents\PROYECTO AL QUE ENTREGAR - LAB ESTRUCTURAS\uTestColecciones\uTestColecciones\obj\Debug\uTestColecciones.csprojAssemblyReference.cache
+C:\Users\Edwin O. Restrepo\Documents\PROYECTO AL QUE ENTREGAR - LAB ESTRUCTURAS\uTestColecciones\uTestColecciones\obj\Debug\uTestColecciones.csproj.CoreCompileInputs.cache
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\obj\Debug\uTestColecciones.csprojAssemblyReference.cache
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\obj\Debug\Interop.Accessibility.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\obj\Debug\uTestColecciones.csproj.ResolveComReference.cache
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\obj\Debug\uTestColecciones.csproj.CoreCompileInputs.cache
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\uTestColecciones.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\uTestColecciones.pdb
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.Data.Framework.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\TORRES-RESTREPO.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\TORRES-RESTREPO.pdb
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.Data.Framework.resources.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\obj\Debug\uTestColecciones.csproj.CopyComplete
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\obj\Debug\uTestColecciones.dll
+C:\Users\Edwin O. Restrepo\Desktop\uTestColecciones\uTestColecciones\obj\Debug\uTestColecciones.pdb
